@@ -20,9 +20,8 @@ while(low <= high):
     # print(low, high)
     if cut_using_m(mid, arr_k) >= K: #success
         low = mid + 1
-        mid = int((low+high)/2)
     else:
         high = mid - 1
-        mid = int((low+high)/2)
+    mid = int((low+high)/2)
 
 print(mid)
