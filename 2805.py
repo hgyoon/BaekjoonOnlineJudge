@@ -1,7 +1,7 @@
 def cut_tree(h, arr_N):
     offset = 0
     for i in arr_N:
-        if i >= h:
+        if i > h:
             offset += i - h
     return offset
 
