@@ -5,4 +5,5 @@ meaningful questions: <br>
 10816.py -> hash map == list <br>
 2805.py -> similar to 1654 but has a trick in it <br>
 1436.py -> brute force '666' <br>
-2839.py -> brute force 3kg 5kg
+2839.py -> brute force 3kg 5kg <br>
+2751.py -> sorting problem but made me realize using sys.stdin.readline() makes code run faster <br>
