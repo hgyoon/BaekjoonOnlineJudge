@@ -18,11 +18,23 @@ for m in brr:
     print(m)
 '''
 
+'''
 #saving memory~ cuz mr.baekjoon ain't gonna allow much memory
 N = int(input())
 count = [0 for a in range(10001)]
 for _ in range(N):
     count[int(input())] += 1
 for j in range(len(count)):
+    for l in range(count[j]):
+        print(j)
+'''
+
+import sys
+MAX_COUNT = 10001
+N = int(sys.stdin.readline())
+count = [ 0 for i in range(MAX_COUNT)]
+for _ in range(N):
+    count[int(sys.stdin.readline())] += 1
+for j in range(MAX_COUNT):
     for l in range(count[j]):
         print(j)

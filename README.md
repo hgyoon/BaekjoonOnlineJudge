@@ -10,3 +10,5 @@ meaningful questions: <br>
 1181.py -> using strip() and how to sort using length <br>
 10989.py -> memory <br>
 11651.py -> sorting using lambda <br>
+2164.py -> deque <br>
+1259.py -> palindrome <br>
