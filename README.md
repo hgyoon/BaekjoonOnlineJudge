@@ -8,3 +8,5 @@ meaningful questions: <br>
 2839.py -> brute force 3kg 5kg <br>
 2751.py -> sorting problem but made me realize using sys.stdin.readline() makes code run faster <br>
 1181.py -> using strip() and how to sort using length <br>
+10989.py -> memory <br>
+11651.py -> sorting using lambda <br>
