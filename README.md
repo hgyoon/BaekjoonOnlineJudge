@@ -12,3 +12,10 @@ meaningful questions: <br>
 11651.py -> sorting using lambda <br>
 2164.py -> deque <br>
 1259.py -> palindrome <br>
+2609.py -> euclidean algorithm for gcd and lcm <br>
+10814.py -> sorting 2D array <br>
+10828.py -> stack <br>
+10845.py -> queue <br>
+11866.py -> yoshipusu indexing <br>
+1874.py -> question not well explained but a stack <br>
+1966.py -> queue with index following <br>
