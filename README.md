@@ -19,3 +19,6 @@ meaningful questions: <br>
 11866.py -> yoshipusu indexing <br>
 1874.py -> question not well explained but a stack <br>
 1966.py -> queue with index following <br>
+2108.py -> using most_common of collections' Counter <br>
+4949.py -> importance of using rstrip and edge cases <br>
+7568.py -> surprisingly brute force <br>
